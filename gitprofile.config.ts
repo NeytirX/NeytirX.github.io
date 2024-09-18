@@ -52,12 +52,12 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Camille Chevallereau',
+    title: 'Portfolio of Michelle Chevallereau',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'camillechevallereau',
+    linkedin: '',
     twitter: '',
     mastodon: '',
     researchGate: '',
